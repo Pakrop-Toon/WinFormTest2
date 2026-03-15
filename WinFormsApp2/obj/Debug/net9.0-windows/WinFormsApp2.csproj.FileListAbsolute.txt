@@ -1,0 +1,17 @@
+D:\Playground\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.exe
+D:\Playground\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.deps.json
+D:\Playground\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Playground\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.dll
+D:\Playground\WinFormsApp2\WinFormsApp2\bin\Debug\net9.0-windows\WinFormsApp2.pdb
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.Form1.resources
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.sourcelink.json
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.dll
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\refint\WinFormsApp2.dll
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Playground\WinFormsApp2\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
