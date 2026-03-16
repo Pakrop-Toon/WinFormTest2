@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Playground\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "D:\\Playground\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Playground\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "D:\\Playground\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\PakropThummalee\\.nuget\\packages\\",
-        "outputPath": "D:\\Playground\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
