@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "jaw/QlZERZA=",
+  "dgSpecHash": "0cCwZHdw2Ps=",
   "success": true,
   "projectFilePath": "D:\\Playground\\Installer-Test\\WinFormTest2\\WinFormsApp2\\WinFormsApp2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.13\\microsoft.netcore.app.runtime.win-x86.9.0.13.nupkg.sha512",
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.13\\microsoft.aspnetcore.app.runtime.win-x86.9.0.13.nupkg.sha512",
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.13\\microsoft.aspnetcore.app.runtime.win-x64.9.0.13.nupkg.sha512",
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.13.nupkg.sha512",
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.13\\microsoft.netcore.app.runtime.win-x64.9.0.13.nupkg.sha512",
+    "C:\\Users\\PakropThummalee\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
